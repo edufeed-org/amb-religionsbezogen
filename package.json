@@ -1,16 +1,16 @@
 {
-  "name": "amb",
-  "description": "A LRMI-/schema.org-based profile for describing educational resources",
-  "author": "DINI AG KIM",
+  "name": "amb-religionsbezogen",
+  "description": "A LRMI-/schema.org-based profile for describing religion-related educational resources",
+  "author": "eduFeed.org",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://github.com/dini-ag-kim/amb#readme",
+  "homepage": "https://github.com/edufeed-org/amb-religionsbezogen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dini-ag-kim/amb.git"
+    "url": "git+https://github.com/edufeed-org/amb-religionsbezogen.git"
   },
   "bugs": {
-    "url": "https://github.com/dini-ag-kim/amb/issues"
+    "url": "https://github.com/edufeed-org/amb-religionsbezogen/issues"
   },
   "scripts": {
     "format": "prettier . --write",

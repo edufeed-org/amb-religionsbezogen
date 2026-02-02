@@ -1,26 +1,28 @@
-# Allgemeines Metadatenprofil für Bildungsressourcen
+# Metadatenprofil für religionsbezogene Bildungsressourcen
 
 ---
 
 **English description**
 
-A schema.org/LRMI-based profile for describing learning resources.
+A schema.org/LRMI-based profile for describing religion-related learning resources.
+Based on the [Allgemeines Metadatenprofil für Bildungsressourcen (AMB)](https://github.com/dini-ag-kim/amb).
 
-- GitHub Repo: <https://github.com/dini-ag-kim/amb>
+- GitHub Repo: <https://github.com/edufeed-org/amb-religionsbezogen>
 - Specification:
-  - latest published version: <https://w3id.org/kim/amb/latest/>
-  - current draft: https://w3id.org/kim/amb/draft/
+  - latest published version: <https://edufeed-org.github.io/amb-religionsbezogen/latest/>
+  - current draft: <https://edufeed-org.github.io/amb-religionsbezogen/draft/>
 
 
 ---
 
-Ein schema.org-/LRMI-basiertes Metadatenprofil für die Beschreibung von Lehr-
+Ein schema.org-/LRMI-basiertes Metadatenprofil für die Beschreibung von religionsbezogenen Lehr-
 und Lernressourcen mit Fokus auf den deutschsprachigen Raum.
+Basierend auf dem [Allgemeinen Metadatenprofil für Bildungsressourcen (AMB)](https://github.com/dini-ag-kim/amb).
 
-- GitHub Repo: <https://github.com/dini-ag-kim/amb>
+- GitHub Repo: <https://github.com/edufeed-org/amb-religionsbezogen>
 - Spezifikation:
-  - letzte publizierte Version: <https://w3id.org/kim/amb/latest/>
-  - aktueller Entwurf: <https://w3id.org/kim/amb/draft/>
+  - letzte publizierte Version: <https://edufeed-org.github.io/amb-religionsbezogen/latest/>
+  - aktueller Entwurf: <https://edufeed-org.github.io/amb-religionsbezogen/draft/>
 
 ### Status
 
